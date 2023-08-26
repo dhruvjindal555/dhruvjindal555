@@ -1,7 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?w=1170&ssl=1))]
 <h1 align="center">Hi 👋, I'm Dhruv Jindal</h1>
 <h3 align="center">A passionate developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <a href="https://twitter.com/dhruvjindal546" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvjindal546?logo=twitter&style=for-the-badge" alt="dhruvjindal546" /></a> </p>
 
