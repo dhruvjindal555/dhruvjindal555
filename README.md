@@ -1,7 +1,13 @@
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Dhruv Jindal</h1>
 <h3 align="center">A passionate developer from India</h3>
+<img scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400" >
 
 <p align="left"> <a href="https://twitter.com/dhruvjindal546" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvjindal546?logo=twitter&style=for-the-badge" alt="dhruvjindal546" /></a> </p>
+
+- 🌱 I’m currently learning **Java**
+
+- 💬 Ask me about **Java, Web Development**
 
 - 📫 How to reach me **dhruvjindal546@gmail.com**
 
@@ -18,6 +24,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvjindal555&show_icons=true&locale=en&layout=compact" alt="dhruvjindal555" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvjindal555&" alt="dhruvjindal555" /></p>
+
 
 <!--
 **dhruvjindal555/dhruvjindal555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
