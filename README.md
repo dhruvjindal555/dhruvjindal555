@@ -1,6 +1,6 @@
 ![Header](./headerFile.png)
 <h1 align="center">Hi 👋, I'm Dhruv Jindal</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="./programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/dhruvjindal546" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvjindal546?logo=twitter&style=for-the-badge" alt="dhruvjindal546" /></a> </p>
